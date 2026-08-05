@@ -1,0 +1,6 @@
+tag,direction,description,off_value,on_value,safety_related
+PE101,input,infeed photoeye,false,true,false
+LS102,input,guarded cylinder extended,false,true,false
+SOL101,output,reject solenoid,false,true,false
+K1,output,safety contactor feedback,false,true,true
+
